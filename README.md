@@ -49,4 +49,4 @@
 2019116859 | 글로벌SW융합 | 김미소 | 영상편집
 
 ## 이미지 출처
-https://www.facebook.com/knuchonghak/posts/2494710984097025/
+(QR 인식 출입 사진) https://www.facebook.com/knuchonghak/posts/2494710984097025/
