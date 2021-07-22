@@ -30,7 +30,8 @@
  - 라즈베리파이는 서버로부터 받은 신호를 식별하여 상황에 맞게 문을 개방한다.
 
 
-## Usecase diagram
+## 📒 Usecase diagram
+![Usecase Diagram](https://user-images.githubusercontent.com/59030198/126656182-284e6bf0-3c4c-4fa6-bf8d-fd35ddec229f.png)
 
 ## ✨ 시연영상
 
