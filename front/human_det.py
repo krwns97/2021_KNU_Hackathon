@@ -29,11 +29,22 @@ def controlPIR():
 cnt = 0
 
 sensorInit()
-while True:
-	print(f"if PIR is {controlPIR()}")
-	time.sleep(0.1)
-	cnt = cnt + 1
-	if cnt > 100:
-		break
+try:
+    while True:
+        time.sleep(0.5)
+        human = controlPIR()
+        if human == 1:
+            print("detected!")
+        #print(f"if PIR is {controlPIR()}")
+        #time.sleep(0.1)
+        #cnt = cnt + 1
+        #if cnt > 100:
+        #	break
+        
+except KeyboardInterrupt:
+    print('stop')
+finally:
+    PWM_PBUZ.stop()
+    GPIO.cleanup()
+    print('end')
 
-GPIO.cleanup()
