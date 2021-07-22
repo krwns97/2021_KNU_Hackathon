@@ -1,9 +1,8 @@
 # 2021_KNU_Hackathon
 
 ## 문제점 인식
-  ![image](https://user-images.githubusercontent.com/59030198/126603930-bec1b6e8-6e8a-43c5-ac30-134169384a5e.png,width="100")
+  ![제목 없음](https://user-images.githubusercontent.com/59030198/126649011-de272dad-7dbd-4c84-93bb-cb139b218196.png)
 
-  
    현재 경북대학교 모든 건물은 QR 코드 혹은 NFC 태깅을 통해 출입을 허용하고 있으며, 이는 코로나 방문기록으로도 활용된다. 
    하지만, 많은 학생들이 몰리는 특정 시간 때, 한명이 QR코드 인식 후 문이 열리면, 뒤 따르는 수많은 인원이 따라 들어가는 문제점이 존재한다.
    이는 방문기록에 남겨지지 않아, 만약 교내 확진자가 발생하였을 때 접촉자를 찾는데 어려움을 겪을 수 있다.
