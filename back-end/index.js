@@ -11,7 +11,12 @@ app.use(express.urlencoded({ extended: true }))
 
 app.use(express.static('public'))
 
-mongoose.connect('mongodb://localhost:27017/my_database', {
+// mongoose.connect('mongodb://localhost:27017/my_database', {
+//     useUnifiedTopology: true,
+//     useNewUrlParser: true,
+//     useCreateIndex: true    
+// });
+mongoose.connect('mongodb+srv://vhtmxmqhdl:wkdgus99@cluster0.980yu.mongodb.net/test', {
     useUnifiedTopology: true,
     useNewUrlParser: true,
     useCreateIndex: true    
