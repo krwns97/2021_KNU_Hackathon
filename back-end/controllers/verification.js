@@ -15,6 +15,7 @@ module.exports = async (req, res) =>{
             students.push(student[0]);
         }
     }
+    console.log(bluetooth)
     console.log(students)
 
     for(var i=0;i<students.length;i++){
