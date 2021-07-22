@@ -10,7 +10,7 @@
    
    #### => 블루투스 주소를 통한 건물 출입을 제어 / 건물 입구를 지나는 모든 블루투스 주소를 수집하여 DB에 저장하는,
    
-   ####    비접촉 방식의 <span style="color:red">건물 출입 시스템</span>을 제안한다. 
+   ####        비접촉 방식의 <span style="color:red">건물 출입 시스템</span>을 제안한다. 
    
 ## 🚀 시스템 구성도 & Sequence diagram
 ![AI_Hackathon](https://user-images.githubusercontent.com/59030198/126280274-d7fa1989-df9d-483f-a949-1afcdea1f726.png)
