@@ -10,7 +10,7 @@
    
    이를 해결하기 위해 블루투스 주소를 통해 건물 출입을 제어하고, 또한 건물 입구를 지나는 블루투스 주소를 수집하여 DB에 저장하는, 비접촉 방식의 **건물 출입 시스템**을 제안한다. 
    
-## 시스템 구성도
+## 시스템 구성도 & Sequence diagram
 ![AI_Hackathon](https://user-images.githubusercontent.com/59030198/126280274-d7fa1989-df9d-483f-a949-1afcdea1f726.png)
 
 시스템은 전체적으로 라즈베리파이와 AWS, 그리고 DB로 구성된다.
@@ -31,8 +31,6 @@
 
 
 ## Usecase diagram
-
-## Sequence diagram
 
 ## 시연영상
 
