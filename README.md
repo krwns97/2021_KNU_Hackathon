@@ -37,7 +37,7 @@
 
 ## ✨ 시연영상
 
-https://youtu.be/xLybulsivD4
+[![youtube_demo](https://img.youtube.com/vi/xLybulsivD4/0.jpg)](https://youtu.be/xLybulsivD4)
 
 ## 🤝 기대효과
 우선, 본 시스템을 통하여 상기한 문제인 수많은 인원이 동시에 인증없이 통과하여 교내 전염병 확진자가 발생하였을 경우 동선 파악과 접촉자 확인의 어려움을 덜어줄 수 있다. 건물의 입장시간 뿐 아니라 상대적으로 관리가 쉽지 않았던 퇴장시간까지 일괄적으로 관리할 수 있어 감염자 파악에 더 많은 기여를 할 것으로 보인다.
