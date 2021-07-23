@@ -60,8 +60,8 @@ https://youtu.be/xLybulsivD4
 
 ### hardware 실행방법
 1. 설치는 back-end와 동일합니다.
-2. final.py 파일을 찾아 실행합니다.
-`python3 final.py`
+2. Hardware_final.py 파일을 찾아 실행합니다.
+`python3 Hardware_final.py`
 
 * GPIO 핀 번호는 아래와 같습니다.
  - - PIR센서 : 4
