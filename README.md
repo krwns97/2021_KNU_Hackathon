@@ -1,5 +1,4 @@
-# 2021_KNU_Hackathon
-# 팀명 삼다수
+# 2021_KNU_Hackathon_삼다수
 
 # 🏢 블루투스ID 기반 Untact 건물 출입 시스템
 
